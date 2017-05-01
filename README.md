@@ -9,4 +9,8 @@ A collection of specifications and tools for 360&deg; video and spatial audio, i
 
 Try out [Jump Inspector](https://g.co/jump/inspector), an Android app for previewing VR videos with spatial audio.
 
+## Other Resources
+
+- [Editing 360 Photos & Injecting Metadata](https://facebook360.fb.com/editing-360-photos-injecting-metadata/) from Facebook360
+
 ![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/metadata-injector)
