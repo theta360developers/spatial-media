@@ -8,3 +8,5 @@ A collection of specifications and tools for 360&deg; video and spatial audio, i
 - [Spatial Media tools](spatialmedia/) for injecting spatial media metadata in media files
 
 Try out [Jump Inspector](https://g.co/jump/inspector), an Android app for previewing VR videos with spatial audio.
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/metadata-injector)
